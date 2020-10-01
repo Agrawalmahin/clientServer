@@ -1,4 +1,4 @@
-//To compile gcc -Wall -g3 -fsanitize=address -pthread 201801053_client_stream.c -o client
+//To compile gcc -Wall -g3 -fsanitize=address -pthread tcpClient.c -o client
 // To run ./client port number
 #include <stdio.h>
 #include <stdlib.h>
